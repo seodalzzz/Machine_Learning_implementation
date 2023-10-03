@@ -1,6 +1,7 @@
 # Machine_Learning_implementation
 Machine Learning Algorithms Code Implementation
 
+code directory
 * gmm
 * k-means
 * pca
